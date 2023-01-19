@@ -4,5 +4,5 @@ class Stortinget:
         self.tabell = []
     def hent_spiller(self):
         pass
-    def lag_tabell():
+    def lag_tabell(self):
         pass
