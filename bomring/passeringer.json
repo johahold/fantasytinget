@@ -1,0 +1,252 @@
+[
+    {
+        "regnr": "SX71021",
+        "eier": "Salberg",
+        "type": "EL"
+    },
+    {
+        "regnr": "FJ65121",
+        "eier": "Chen",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "TW70631",
+        "eier": "Krog",
+        "type": "EL"
+    },
+    {
+        "regnr": "PW00898",
+        "eier": "Myhr",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "KP21332",
+        "eier": "Steiro",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "BJ17348",
+        "eier": "Jøssang",
+        "type": "EL"
+    },
+    {
+        "regnr": "SX98795",
+        "eier": "Berge",
+        "type": "EL"
+    },
+    {
+        "regnr": "WD29019",
+        "eier": "Brækken",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "MI85134",
+        "eier": "Torgersen",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "PE04905",
+        "eier": "Maurstad",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "YI12443",
+        "eier": "Westrum",
+        "type": "EL"
+    },
+    {
+        "regnr": "SJ81128",
+        "eier": "Cappelen",
+        "type": "EL"
+    },
+    {
+        "regnr": "UZ80516",
+        "eier": "Kvåle",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "MP41863",
+        "eier": "Schmidt",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "NO11494",
+        "eier": "Holmsen",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "EY37086",
+        "eier": "Uthus",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "FH25293",
+        "eier": "Aune",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "EC64450",
+        "eier": "Espeland",
+        "type": "EL"
+    },
+    {
+        "regnr": "WT96501",
+        "eier": "Eid",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "HK08731",
+        "eier": "Nyborg",
+        "type": "EL"
+    },
+    {
+        "regnr": "IV21490",
+        "eier": "Telle",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "HL05908",
+        "eier": "Sandsmark",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "TJ80242",
+        "eier": "Bjørkmo",
+        "type": "EL"
+    },
+    {
+        "regnr": "EE01032",
+        "eier": "Lindal",
+        "type": "EL"
+    },
+    {
+        "regnr": "NS23093",
+        "eier": "Stokkenes",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "RW14183",
+        "eier": "Engebretsen",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "UP20432",
+        "eier": "Rossebø",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "GH32977",
+        "eier": "Lyse",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "DO82769",
+        "eier": "Josefsen",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "FD74882",
+        "eier": "Meier",
+        "type": "EL"
+    },
+    {
+        "regnr": "OW37642",
+        "eier": "Emblem",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "GZ45672",
+        "eier": "Wetteland",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "YM67191",
+        "eier": "Seglem",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "RD24180",
+        "eier": "Nybakk",
+        "type": "EL"
+    },
+    {
+        "regnr": "ZM54026",
+        "eier": "Knapstad",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "WW47871",
+        "eier": "Føreland",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "ED21715",
+        "eier": "Winge",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "PB81382",
+        "eier": "Schou",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "XQ92719",
+        "eier": "Husby",
+        "type": "EL"
+    },
+    {
+        "regnr": "JO28913",
+        "eier": "Høines",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "MZ37945",
+        "eier": "Marthinsen",
+        "type": "EL"
+    },
+    {
+        "regnr": "TI61086",
+        "eier": "Malmedal",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "EY54574",
+        "eier": "Midttun",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "OG76681",
+        "eier": "Karoliussen",
+        "type": "EL"
+    },
+    {
+        "regnr": "UE20342",
+        "eier": "Urstad",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "PU12738",
+        "eier": "Henriksen",
+        "type": "EL"
+    },
+    {
+        "regnr": "EF53906",
+        "eier": "Engeseth",
+        "type": "Diesel"
+    },
+    {
+        "regnr": "KX06804",
+        "eier": "Almenning",
+        "type": "Blyfri"
+    },
+    {
+        "regnr": "ZH26740",
+        "eier": "Eklund",
+        "type": "EL"
+    },
+    {
+        "regnr": "JW50708",
+        "eier": "Øvsthus",
+        "type": "Diesel"
+    }
+]

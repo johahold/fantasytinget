@@ -9,3 +9,6 @@ class Passering:
 
     def hent_reg_nr(self):
         return self.kjoretoy.hent_reg_nr()
+
+    def hent_time(self):
+        return self.time
