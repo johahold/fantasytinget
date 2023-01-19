@@ -5,5 +5,4 @@ class Stortinget:
     def hent_spiller(self):
         pass
     def lag_tabell():
-        for players in spillere:
-            self.tabell.append(players)
+        pass
