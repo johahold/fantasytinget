@@ -6,6 +6,9 @@ class Spillere:
 
     def hent_lag_navn(self):
         pass
+    
+    def hent_navn(self):
+        pass
 
     def hent_poeng(self):
         pass
