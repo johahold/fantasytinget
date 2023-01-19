@@ -1,7 +1,4 @@
-from bil import Bil
-from passeringer import Dato
-
-
+from passeringer import Passering
 class Bompassering:
     def __init__(self,navn):
         self.passeringer = []
