@@ -11,9 +11,9 @@ class Poengsystem:
         pass
 
     def poeng(self):
-        for i in overskrifter:
+        for i, overskrift in enumerate(overskrifter):
             viktighet = len(overskrifter)-i
-        for politiker in self._politiker:
-            if politiker in overskrifter:
-                self._poeng += viktighet
-                return self._poeng
+            for politiker in self._politiker:
+                if politiker._navn in overskrift:
+                    self._poeng += viktighet
+                    return self._poeng
